@@ -14,3 +14,23 @@ Em Langley, liderou a West Area Computers, uma equipe da NASA. Ao prever a chega
 • Base para a corrida espacial: Seus cálculos e a gestão de sua equipe ajudaram no sucesso dos primeiros satélites americanos em órbita.
 • Quebra de barreiras: Provou a capacidade das mulheres negras na tecnologia em uma época de poucas oportunidades.
 • Inspiração mundial: Sua história inspirou o famoso livro e filme Estrelas Além do Tempo.
+
+# O que aprendi sobre Git e GitHub
+
+##  git init
+Ele transforma um diretório comum em um projeto monitorado, permitindo controlar o histórico de versões dos arquivos.
+
+## git add .
+Prepara todos os arquivos modificados para o próximo commit.
+
+## git commit 
+Serve para salvar as alterações permanentemente no histórico do repositório.
+
+## git status
+Mostra o estado atual do repositório. Lista os arquivos modificados, não monitorados e prontos para o commit.
+
+## git push
+Envia o projeto local para o repositório remoto, salvando o projeto na nuvem e compartilhando o código.
+
+## git branch
+Cria, lista ou deleta branches no projeto, permitindo testar ideias novas em caminhos separados sem alterar o código principal.
